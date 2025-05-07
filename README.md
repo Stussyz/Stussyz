@@ -30,4 +30,6 @@ Here are some ideas to get you started:
 
 ##### My Github Stats
 ![Stussyz GitHub stats](https://github-readme-stats.vercel.app/api?username=Stussyz&show_icons=true&theme=tokyonight)
+
+##### My Github Project Languages
 ![Stussyz Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stussyz&layout=compact)
