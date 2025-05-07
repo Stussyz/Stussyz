@@ -1,4 +1,3 @@
-## Hi Internet! you can call me "Ado" 👋
 ![my banner](img/new2.png)
 
 <!--
