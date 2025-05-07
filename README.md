@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ##### My latest activities
-🔭 I’m currently working on Property Marketplace
-📚 I’m currently learning Laravel & ReactJS Framework
+- 🔭 I’m currently working on Property Marketplace
+- 📚 I’m currently learning Laravel & ReactJS Framework
 
 ##### Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,express,react,laravel,mysql,mongo&perline=5)](https://skillicons.dev)
