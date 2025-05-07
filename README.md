@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 [![My Operating Systems](https://skillicons.dev/icons?i=windows,ubuntu&perline=5)](https://skillicons.dev)
 
 ##### Connect with me
-![https://instagram.com/@adoleo_](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) ![https://www.linkedin.com/in/mfadhol87/](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![https://instagram.com/adoleo_](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 
 ##### My Github Stats
 ![Stussyz GitHub stats](https://github-readme-stats.vercel.app/api?username=Stussyz&show_icons=true&theme=tokyonight)
