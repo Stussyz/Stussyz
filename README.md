@@ -16,19 +16,10 @@ Here are some ideas to get you started:
 -->
 ##### My latest activities
 - 🔭 I’m currently working on Property Marketplace
-- 📚 I’m currently learning Laravel & ReactJS Framework
+- 📚 I’m currently learning Typescript with React Framework
 
 ##### Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,express,react,laravel,mysql,mongo&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,node,express,react,mysql,mongo&perline=5)](https://skillicons.dev)
 
 ##### Operating System
 [![My Operating Systems](https://skillicons.dev/icons?i=windows,ubuntu&perline=5)](https://skillicons.dev)
-
-##### Connect with me
-![https://instagram.com/adoleo_](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-
-##### My Github Stats
-![Stussyz GitHub stats](https://github-readme-stats.vercel.app/api?username=Stussyz&show_icons=true&theme=tokyonight)
-
-##### My Github Project Languages
-![Stussyz Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stussyz&layout=compact)
