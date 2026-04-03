@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ##### My latest activities
-- 🔭 I’m currently working on Property Marketplace
+- 🔭 I’m currently working on Property Marketplace Platform
 - 📚 I’m currently learning Typescript with React Framework
 
 ##### Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,node,express,react,mysql,mongo&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,php,js,ts,nodejs,express,react,laravel,mysql,mongo&perline=5)](https://skillicons.dev)
 
 ##### Operating System
 [![My Operating Systems](https://skillicons.dev/icons?i=windows,ubuntu&perline=5)](https://skillicons.dev)
